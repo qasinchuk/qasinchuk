@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, my name is Igor!</a></h1>
 <h3 align="center">A passionate Manual QA Engineer from Ukraine</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=matrix278&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=ram-kumar-shrestha&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
